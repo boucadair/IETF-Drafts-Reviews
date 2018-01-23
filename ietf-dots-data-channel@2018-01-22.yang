@@ -250,13 +250,11 @@ module ietf-dots-data-channel {
 
   container dots-data {
     description
-      "Main container for DOTS data message.
-       A DOTS data message can be a alias message or
-       a access-list message.";
+      "Main container for DOTS data channel.";
     list dots-client {
       key "cuid";
       description
-        "List of DOTS clients";
+        "List of DOTS clients.";
       leaf cuid {
         type string;
         description
