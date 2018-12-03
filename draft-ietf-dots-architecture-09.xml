@@ -836,7 +836,7 @@
         between an associated DOTS client and a DOTS server. In the DOTS
         architecture, data is exchanged between DOTS agents over signal and
         data channels. As such, a DOTS session can be a DOTS signal channel
-        session or a DOTS data channel session.</t>
+        session, a DOTS data channel session, or both.</t>
 
         <t>A DOTS agent can maintain one or more DOTS sessions. </t>
 
