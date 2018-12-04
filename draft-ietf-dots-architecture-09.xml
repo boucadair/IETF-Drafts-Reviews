@@ -505,14 +505,14 @@
           <t>The DOTS client requests attack response coordination from a DOTS
           server over the signal channel, including in the request the DOTS
           client's desired mitigation scoping, as described in <xref
-          target="I-D.ietf-dots-requirements"></xref>. The actual mitigation
-          scope and countermeasures used in response to the attack are up to
-          the DOTS server and mitigator operators, as the DOTS client may have
-          a narrow perspective on the ongoing attack. As such, the DOTS
-          client's request for mitigation should be considered advisory:
-          guarantees of DOTS server availability or mitigation capacity
-          constitute service level agreements and are out of scope for this
-          document.</t>
+          target="I-D.ietf-dots-requirements"></xref> (SIG-008). The actual
+          mitigation scope and countermeasures used in response to the attack
+          are up to the DOTS server and mitigator operators, as the DOTS
+          client may have a narrow perspective on the ongoing attack. As such,
+          the DOTS client's request for mitigation should be considered
+          advisory: guarantees of DOTS server availability or mitigation
+          capacity constitute service level agreements and are out of scope
+          for this document.</t>
 
           <t>The DOTS client adjusts mitigation scope and provides available
           mitigation feedback (e.g., mitigation efficacy) at the direction of
@@ -838,7 +838,7 @@
         data channels. As such, a DOTS session can be a DOTS signal channel
         session, a DOTS data channel session, or both.</t>
 
-        <t>A DOTS agent can maintain one or more DOTS sessions. </t>
+        <t>A DOTS agent can maintain one or more DOTS sessions.</t>
 
         <t>A DOTS signal channel session is associated with a single transport
         connection (TCP or UDP session) and an ephemeral security association
@@ -862,10 +862,10 @@
           DOTS client is provided with all data and metadata required to
           establish communication with the DOTS server. Such data and metadata
           would include any cryptographic information necessary to meet the
-          message confidentiality, integrity and authenticity requirement in
-          <xref target="I-D.ietf-dots-requirements"></xref>, and might also
-          include the pool of DOTS server addresses and ports the DOTS client
-          should use for signal and data channel messaging.</t>
+          message confidentiality, integrity and authenticity requirement
+          (SEC-002) in <xref target="I-D.ietf-dots-requirements"></xref>, and
+          might also include the pool of DOTS server addresses and ports the
+          DOTS client should use for signal and data channel messaging.</t>
         </section>
 
         <section anchor="establishing-dots-session"
@@ -883,7 +883,7 @@
           this document. For example, a DOTS client may be directly configured
           to use a specific DOTS server IP address and port, and directly
           provided with any data necessary to satisfy the Peer Mutual
-          Authentication requirement in <xref
+          Authentication requirement (SEC-001) in <xref
           target="I-D.ietf-dots-requirements"></xref>, such as symmetric or
           asymmetric keys, usernames and passwords, etc. All configuration and
           authentication information in this scenario is provided out-of-band
@@ -904,13 +904,13 @@
           channel as soon as possible to confirm that both channels are
           operational.</t>
 
-          <t>As described in <xref
-          target="I-D.ietf-dots-requirements"></xref>, the DOTS client can
-          configure preferred values for acceptable signal loss, mitigation
-          lifetime, and heartbeat intervals when establishing the DOTS signal
-          channel session. A DOTS signal channel session is not active until
-          DOTS agents have agreed on the values for these DOTS session
-          parameters, a process defined by the protocol.</t>
+          <t>As described in <xref target="I-D.ietf-dots-requirements"></xref>
+          (DM-008), the DOTS client can configure preferred values for
+          acceptable signal loss, mitigation lifetime, and heartbeat intervals
+          when establishing the DOTS signal channel session. A DOTS signal
+          channel session is not active until DOTS agents have agreed on the
+          values for these DOTS session parameters, a process defined by the
+          protocol.</t>
 
           <t>Once the DOTS client begins receiving DOTS server signals, the
           DOTS session is active. At any time during the DOTS session, the
@@ -918,18 +918,18 @@
           and accept-listed prefixes or addresses, leverage vendor-specific
           extensions, and so on. Note that unlike the signal channel, there is
           no requirement that the data channel remains operational in attack
-          conditions (See Data Channel Requirements, <xref
+          conditions (See Data Channel Requirements, Section 2.3 of <xref
           target="I-D.ietf-dots-requirements"></xref>).</t>
         </section>
 
         <section anchor="maintaining-dots-session"
                  title="Maintaining the DOTS Session">
           <t>DOTS clients and servers periodically send heartbeats to each
-          other over the signal channel, per Operational Requirements
-          discussed in <xref target="I-D.ietf-dots-requirements"></xref>. DOTS
-          agent operators SHOULD configure the heartbeat interval such that
-          the frequency does not lead to accidental denials of service due to
-          the overwhelming number of heartbeats a DOTS agent must field.</t>
+          other over the signal channel, discussed in <xref
+          target="I-D.ietf-dots-requirements"></xref> (SIG-004). DOTS agent
+          operators SHOULD configure the heartbeat interval such that the
+          frequency does not lead to accidental denials of service due to the
+          overwhelming number of heartbeats a DOTS agent must field.</t>
 
           <t>Either DOTS agent may consider a DOTS signal channel session
           terminated in the extended absence of a heartbeat from its peer
@@ -968,8 +968,8 @@
           session. Such circumstances include but are not limited to:</t>
 
           <t><list style="symbols">
-              <t>Maximum number of DOTS sessions with clients has been
-              reached;</t>
+              <t>Maximum number of DOTS signal channel sessions with clients
+              has been reached;</t>
 
               <t>Mitigation capacity exhaustion in the mitigator with which
               the specific DOTS server is communicating;</t>
@@ -983,8 +983,9 @@
               server and DOTS client.</t>
             </list></t>
 
-          <t>A basic redirected DOTS session resembles the following, as shown
-          in <xref target="fig-redirected-signaling"></xref>.</t>
+          <t>A basic redirected DOTS signal channel session resembles the
+          following, as shown in <xref
+          target="fig-redirected-signaling"></xref>.</t>
 
           <figure anchor="fig-redirected-signaling"
                   title="Redirected Signaling">
@@ -1010,20 +1011,21 @@
           </figure>
 
           <t><list style="numbers">
-              <t>Previously established DOTS session 1 exists between a DOTS
-              client and DOTS server A.</t>
+              <t>Previously established DOTS signal channel session 1 exists
+              between a DOTS client and DOTS server A.</t>
 
               <t>DOTS server A sends a server signal redirecting the client to
               DOTS server B.</t>
 
               <t>If the DOTS client does not already have a separate DOTS
-              session with the redirection target, the DOTS client initiates
-              and establishes DOTS session 2 with DOTS server B.</t>
+              signal channel session with the redirection target, the DOTS
+              client initiates and establishes DOTS signal channel session 2
+              with DOTS server B.</t>
 
               <t>Having redirected the DOTS client, DOTS server A ceases
               sending server signals. The DOTS client likewise stops sending
-              client signals to DOTS server A. DOTS session 1 is
-              terminated.</t>
+              client signals to DOTS server A. DOTS signal channel session 1
+              is terminated.</t>
             </list></t>
         </section>
 
@@ -1116,14 +1118,14 @@
 
           <t>DOTS clients involved in recursive signaling must be able to
           withdraw requests for mitigation without warning or justification,
-          per <xref target="I-D.ietf-dots-requirements"></xref>.</t>
+          per SIG-006 in <xref
+          target="I-D.ietf-dots-requirements"></xref>.</t>
 
           <t>Operators recursing mitigation requests MAY maintain the recursed
           mitigation for a brief, protocol-defined period in the event the
           DOTS client originating the mitigation withdraws its request for
-          help, as per the discussion of managing mitigation toggling in the
-          operational requirements (<xref
-          target="I-D.ietf-dots-requirements"></xref>).</t>
+          help, as per the discussion of managing mitigation toggling in
+          SIG-006 of <xref target="I-D.ietf-dots-requirements"></xref>.</t>
 
           <t>Deployment of recursive signaling may result in traffic
           redirection, examination and mitigation extending beyond the initial
@@ -1176,9 +1178,9 @@
             deploying.</t>
 
             <t>While the DOTS signal channel primarily operates over UDP per
-            <xref target="I-D.ietf-dots-requirements"></xref>, the signal
-            channel also requires mutual authentication between DOTS agents,
-            with associated security state on both ends.</t>
+            SIG-001 in <xref target="I-D.ietf-dots-requirements"></xref>, the
+            signal channel also requires mutual authentication between DOTS
+            agents, with associated security state on both ends.</t>
 
             <t>Network instability is of particular concern with anycast
             signaling, as DOTS signal channels are expected to be long-lived,
