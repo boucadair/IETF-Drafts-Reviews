@@ -1,0 +1,36 @@
+Hi Ole, all, 
+
+Thanks for taking care of this. Please find below some quick comments: 
+
+(1) Update the abstract to indicate that this document obsoletes RFC 6296.
+
+(2) Consider adding a subsection or an appendix with a list of changes vs. 6296 as per this Guidelines "Ensure the I-D clearly summarizes any changes made from the RFCs being updated or obsoleted.". I would list in particular there that erratum https://www.rfc-editor.org/errata/eid3033 was implemented.
+
+(3) Update all IPv6 address examples to be consistent with RFC 5952. 
+
+(4) Section 7: 
+
+4.1. Please note that the "NPTv6 Applicability" section says the following:
+
+   These applications currently require
+   Application Layer Gateways (ALGs) to work correctly through NAPT44
+   devices, and similar ALGs may be required for these applications to
+   work through NPTv6 Translators.
+ 
+   Which may seem to be conflicting with the reco in Section 7. Please reword to avoid internal inconsistency.
+
+4.2. An approach to avoid ALGs is to discover the external prefix used by the NPTv6. A discovery approach is specified in https://datatracker.ietf.org/doc/html/rfc6887#section-2.1.
+
+(5) Section 8: Add a note as per RFC 7942
+
+   Since this information is necessarily time dependent, it is
+   inappropriate for inclusion in a published RFC.  The authors should
+   include a note to the RFC Editor requesting that the section be
+   removed before publication.
+
+(6) Consider adding some text about the manageability of NPTv6. FWIW, you may refer for the provisioning of NPTv6 (https://datatracker.ietf.org/doc/html/rfc8512#autoid-33)
+
+(7) Update many RFCs as they were obsoleted since then (e.g., RFC 5996, RFC 6204, RFC 5389, RFC 5766, RFC 5245, ..)
+
+Cheers,
+Med
