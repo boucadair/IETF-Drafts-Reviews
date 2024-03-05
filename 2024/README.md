@@ -6,3 +6,4 @@
 3. [draft-wdbsp-teas-nrp-yang-04](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-ahuang-netconf-udp-client-server-01-rev%20Med.pdf)
 4. [draft-ietf-madinas-mac-address-randomization-11](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-ietf-madinas-mac-address-randomization-11-rev%20Med.pdf)
 5. [draft-ietf-madinas-use-cases-07](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-ietf-madinas-use-cases-07-rev%20Med.pdf)
+6. [draft-cui-dots-extended-yang-01](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-cui-dots-extended-yang-01-rev%20Med.pdf)
