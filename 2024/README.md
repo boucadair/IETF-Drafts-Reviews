@@ -10,3 +10,4 @@
 7. [draft-ietf-teas-ietf-network-slice-nbi-yang-10](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-ietf-teas-ietf-network-slice-nbi-yang-10-rev%20Med.pdf)
 8. [draft-ietf-opsawg-tacacs-tls13-06](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-ietf-opsawg-tacacs-tls13-06-rev%20Med.pdf)
 9. [draft-gong-spring-hierarchical-slice-solution-00-rev%20Med.doc](https://github.com/boucadair/IETF-Drafts-Reviews/raw/master/2024/draft-gong-spring-hierarchical-slice-solution-00-rev%20Med.doc)
+10. [draft-barth-teas-yang-pg-aware-topo-00](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-barth-teas-yang-pg-aware-topo-00-rev%20Med.doc)
