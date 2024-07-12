@@ -11,3 +11,4 @@
 8. [draft-ietf-opsawg-tacacs-tls13-06](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-ietf-opsawg-tacacs-tls13-06-rev%20Med.pdf)
 9. [draft-gong-spring-hierarchical-slice-solution-00-rev%20Med.doc](https://github.com/boucadair/IETF-Drafts-Reviews/raw/master/2024/draft-gong-spring-hierarchical-slice-solution-00-rev%20Med.doc)
 10. [draft-barth-teas-yang-pg-aware-topo-00](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-barth-teas-yang-pg-aware-topo-00-rev%20Med.doc)
+11. [draft-ietf-tvr-schedule-yang-01](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-ietf-tvr-schedule-yang-01-rev%20Med.pdf)
