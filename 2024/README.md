@@ -13,3 +13,4 @@
 10. [draft-barth-teas-yang-pg-aware-topo-00](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-barth-teas-yang-pg-aware-topo-00-rev%20Med.doc)
 11. [draft-ietf-tvr-schedule-yang-01](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-ietf-tvr-schedule-yang-01-rev%20Med.pdf)
 12. [draft-contreras-opsawg-scheduling-oam-tests-02](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-contreras-opsawg-scheduling-oam-tests-02-rev%20Med.pdf)
+13. [draft-ietf-opsawg-ipfix-on-path-telemetry-08](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-ietf-opsawg-ipfix-on-path-telemetry-08-rev%20Med.pdf)
