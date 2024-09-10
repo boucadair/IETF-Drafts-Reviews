@@ -17,3 +17,4 @@
 14. [draft-ietf-opsawg-ipfix-alt-mark-00](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-ietf-opsawg-ipfix-alt-mark-00-rev%20Med.pdf)
 15. [draft-ietf-manet-dlep-credit-flow-control-15](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-ietf-manet-dlep-credit-flow-control-15-rev%20Med.pdf)
 16. [draft-wbbpb-ivy-network-inventory-location-01](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-wbbpb-ivy-network-inventory-location-01.doc)
+17. [draft-ietf-raw-technologies-10](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-ietf-raw-technologies-10-rev%20Med.pdf)
