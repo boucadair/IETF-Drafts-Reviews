@@ -19,3 +19,4 @@
 16. [draft-wbbpb-ivy-network-inventory-location-01](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-wbbpb-ivy-network-inventory-location-01.doc)
 17. [draft-ietf-raw-technologies-10](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-ietf-raw-technologies-10-rev%20Med.pdf)
 18. [draft-ietf-bess-evpn-bfd-07](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-ietf-bess-evpn-bfd-07-rev%20Med.pdf)
+19. [draft-bortzmeyer-resinfo-dnssecval-00](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-bortzmeyer-resinfo-dnssecval-00-rev%20Med.pdf)
