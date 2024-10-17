@@ -25,3 +25,4 @@
 22. [draft-ietf-dmm-tn-aware-mobility-11](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-ietf-dmm-tn-aware-mobility-11-rev%20Med.pdf)
 23. [draft-porfiri-dhc-dhcpv4-over-dhcpv6-ra-02](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-porfiri-dhc-dhcpv4-over-dhcpv6-ra-02-rev%20Med.pdf)
 24. [draft-hu-opsawg-network-element-tsm-yang-00](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-hu-opsawg-network-element-tsm-yang-00-rev%20Med.pdf)
+25. [draft-ai-traffic-00](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-ai-traffic-00-rev%20Med.pdf)
