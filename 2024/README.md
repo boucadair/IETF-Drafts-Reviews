@@ -26,3 +26,4 @@
 23. [draft-porfiri-dhc-dhcpv4-over-dhcpv6-ra-02](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-porfiri-dhc-dhcpv4-over-dhcpv6-ra-02-rev%20Med.pdf)
 24. [draft-hu-opsawg-network-element-tsm-yang-00](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-hu-opsawg-network-element-tsm-yang-00-rev%20Med.pdf)
 25. [draft-ai-traffic-00](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-ai-traffic-00-rev%20Med.pdf)
+26. [draft-ietf-opsawg-oam-characterization-03](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-ietf-opsawg-oam-characterization-03-rev%20Med.pdf)
