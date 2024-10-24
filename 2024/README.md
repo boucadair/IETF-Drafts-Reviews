@@ -28,3 +28,4 @@
 25. [draft-ai-traffic-00](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-ai-traffic-00-rev%20Med.pdf)
 26. [draft-ietf-opsawg-oam-characterization-03](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-ietf-opsawg-oam-characterization-03-rev%20Med.pdf)
 27. [draft-ietf-6man-enhanced-vpn-vtn-id-08](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-ietf-6man-enhanced-vpn-vtn-id-08-rev%20Med.pdf)
+28. [draft-mackey-nmop-kg-for-netops-01](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-mackey-nmop-kg-for-netops-01-rev%20Med.pdf)
