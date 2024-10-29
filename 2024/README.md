@@ -32,3 +32,4 @@
 29. [draft-marcas-nmop-knowledge-graph-yang-05](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-marcas-nmop-knowledge-graph-yang-05-rev%20Med.pdf)
 30. [draft-netana-nmop-network-anomaly-lifecycle-04](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-netana-nmop-network-anomaly-lifecycle-04-rev%20Med.pdf)
 31. [draft-netana-nmop-network-anomaly-semantics-03](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-netana-nmop-network-anomaly-semantics-03-rev%20Med.pdf)
+32. [draft-ietf-opsawg-ipfix-gtpu-00](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-ietf-opsawg-ipfix-gtpu-00-rev%20Med.pdf)
