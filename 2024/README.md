@@ -35,4 +35,5 @@
 32. [draft-ietf-opsawg-ipfix-gtpu-00](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-ietf-opsawg-ipfix-gtpu-00-rev%20Med.pdf)
 33. [draft-rcr-opsawg-operational-compute-metrics-08](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-rcr-opsawg-operational-compute-metrics-08-rev%20Med.pdf)
 34. [draft-ysl-cats-metric-definition-01](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-ysl-cats-metric-definition-01-rev%20Med.pdf)
+35. [draft-wang-cats-usecase-green-00](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-wang-cats-usecase-green-00-rev%20Med.pdf)
 
