@@ -34,3 +34,5 @@
 31. [draft-netana-nmop-network-anomaly-semantics-03](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-netana-nmop-network-anomaly-semantics-03-rev%20Med.pdf)
 32. [draft-ietf-opsawg-ipfix-gtpu-00](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-ietf-opsawg-ipfix-gtpu-00-rev%20Med.pdf)
 33. [draft-rcr-opsawg-operational-compute-metrics-08](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-rcr-opsawg-operational-compute-metrics-08-rev%20Med.pdf)
+34. [draft-ysl-cats-metric-definition-01](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-ysl-cats-metric-definition-01-rev%20Med.pdf)
+
