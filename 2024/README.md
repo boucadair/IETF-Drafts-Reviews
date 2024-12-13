@@ -37,4 +37,5 @@
 34. [draft-ysl-cats-metric-definition-01](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-ysl-cats-metric-definition-01-rev%20Med.pdf)
 35. [draft-wang-cats-usecase-green-00](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-wang-cats-usecase-green-00-rev%20Med.pdf)
 36. [draft-ietf-nmop-terminology-08](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-ietf-nmop-terminology-08-rev%20Med.pdf)
+37. [draft-netana-netconf-yp-transport-capabilities-00](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2024/draft-netana-netconf-yp-transport-capabilities-00-rev%20Med.pdf)
 
