@@ -7,3 +7,4 @@
 4. [draft-ietf-netconf-udp-notif-18](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-netconf-udp-notif-18-rev%20Med.pdf)
 5. [draft-ietf-netconf-udp-client-server-05](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-netconf-udp-client-server-05-rev%20Med.pdf)
 7. [draft-ietf-grow-bmp-tlv-15](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-grow-bmp-tlv-15-rev%20Med.pdf)
+8. [draft-ietf-grow-bmp-tlv-ebit-06](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-grow-bmp-tlv-ebit-06-rev%20Med.pdf)
