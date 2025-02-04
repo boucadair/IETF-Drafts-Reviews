@@ -9,3 +9,4 @@
 7. [draft-ietf-grow-bmp-tlv-15](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-grow-bmp-tlv-15-rev%20Med.pdf)
 8. [draft-ietf-grow-bmp-tlv-ebit-06](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-grow-bmp-tlv-ebit-06-rev%20Med.pdf)
 9. [draft-ietf-grow-bmp-loc-peer-00](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-grow-bmp-loc-peer-00-rev%20Med.pdf)
+10. [draft-ietf-grow-yang-bgp-communities-02](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-grow-yang-bgp-communities-02-rev%20Med.pdf)
