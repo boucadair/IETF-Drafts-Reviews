@@ -11,3 +11,4 @@
 9. [draft-ietf-grow-bmp-loc-peer-00](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-grow-bmp-loc-peer-00-rev%20Med.pdf)
 10. [draft-ietf-grow-yang-bgp-communities-02](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-grow-yang-bgp-communities-02-rev%20Med.pdf)
 11. [draft-ietf-grow-bmp-path-marking-tlv-02](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-grow-bmp-path-marking-tlv-02-rev%20Med.pdf)
+12. [draft-ietf-grow-ixp-ext-comms-01](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-grow-ixp-ext-comms-01-rev%20Med.pdf)
