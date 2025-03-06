@@ -18,3 +18,4 @@
 16. [draft-ietf-grow-bmp-rel-02](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-grow-bmp-rel-02-rev%20Med.pdf)
 17. [draft-ietf-grow-as-path-prepending-14](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-grow-as-path-prepending-14-rev%20Med.pdf)
 18. [draft-ietf-uta-require-tls13-06](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-uta-require-tls13-06-rev%20Med.pdf)
+19. [draft-ietf-sidrops-rpki-crl-numbers-02](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-sidrops-rpki-crl-numbers-02-rev%20Med.pdf)
