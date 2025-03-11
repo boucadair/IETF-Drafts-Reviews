@@ -25,3 +25,4 @@
 23. [draft-ietf-tls-tls12-frozen-06](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-tls-tls12-frozen-06-rev%20Med.pdf)
 24. [draft-ietf-lsr-ospf-prefix-extended-flags-06](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-lsr-ospf-prefix-extended-flags-06-rev%20Med.pdf)
 25. [draft-ietf-lamps-automation-keyusages-05](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-lamps-automation-keyusages-05-rev%20Med.pdf)
+26. [draft-ietf-lamps-rfc9579bis-05](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-lamps-rfc9579bis-05-rev%20Med.pdf)
