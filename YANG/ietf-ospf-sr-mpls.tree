@@ -7,7 +7,7 @@ module: ietf-ospf-sr-mpls
     |  +--rw bindings {mapping-server}?
     |     +--rw advertise
     |     |  +--rw policies*   leafref
-    |     +--rw receive?     boolean
+    |     +--rw receive?      boolean
     +--rw protocol-srgb {sr-mpls:protocol-srgb}?
        +--rw srgb* [lower-bound upper-bound]
           +--rw lower-bound    uint32
