@@ -29,3 +29,4 @@
 27. [draft-ietf-pim-mofrr-tilfa-09](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-pim-mofrr-tilfa-09-rev%20Med.pdf)
 28. [draft-ietf-pce-segment-routing-policy-cp-22](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-pce-segment-routing-policy-cp-22-rev%20Med.pdf)
 29. [draft-ietf-isis-sr-yang-25](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-isis-sr-yang-25-rev%20Med.pdf)
+30. [draft-ietf-v6ops-nd-considerations-09](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-v6ops-nd-considerations-09-rev%20Med.pdf)
