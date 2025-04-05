@@ -30,3 +30,5 @@
 28. [draft-ietf-pce-segment-routing-policy-cp-22](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-pce-segment-routing-policy-cp-22-rev%20Med.pdf)
 29. [draft-ietf-isis-sr-yang-25](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-isis-sr-yang-25-rev%20Med.pdf)
 30. [draft-ietf-v6ops-nd-considerations-09](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-v6ops-nd-considerations-09-rev%20Med.pdf)
+31. [draft-ietf-6man-zone-ui-08](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-6man-zone-ui-08-rev%20Med.pdf)
+32. [draft-ietf-sipcore-callinfo-rcd-16](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-sipcore-callinfo-rcd-16-rev%20Med.pdf)
