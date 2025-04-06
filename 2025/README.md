@@ -33,3 +33,4 @@
 31. [draft-ietf-6man-zone-ui-08](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-6man-zone-ui-08-rev%20Med.pdf)
 32. [draft-ietf-sipcore-callinfo-rcd-16](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-sipcore-callinfo-rcd-16-rev%20Med.pdf)
 33. [draft-ietf-6man-eh-limits-19](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-6man-eh-limits-19-rev%20Med.pdf)
+34. [draft-ietf-suit-trust-domains-10](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/ietf-suit-trust-domains-10-rev%20Med.pdf)
