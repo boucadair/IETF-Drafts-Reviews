@@ -38,3 +38,4 @@
 36. [draft-ietf-bmwg-mlrsearch-10](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-bmwg-mlrsearch-10-rev%20Med.pdf)
 37. [draft-ietf-opsawg-tacacs-tls13-19](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-opsawg-tacacs-tls13-19-rev%20Med.pdf)
 38. [draft-dunbar-neotec-ac-te-applicability-02](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-dunbar-neotec-ac-te-applicability-02-rev%20Med.pdf)
+39. [draft-ietf-rtgwg-vrrp-rfc8347bis-06](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-rtgwg-vrrp-rfc8347bis-06-rev%20Med.pdf)
