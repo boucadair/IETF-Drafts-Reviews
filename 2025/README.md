@@ -42,3 +42,4 @@
 40. [draft-ietf-v6ops-prefer8781-03](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-v6ops-prefer8781-03-rev%20Med.pdf)
 41. [draft-ietf-iotops-security-protocol-comparison-09](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-iotops-security-protocol-comparison-09-rev%20Med.pdf)
 43. [draft-ietf-grow-nrtm-v4-07](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-grow-nrtm-v4-07-rev%20Med.pdf)
+44. [draft-ietf-sidrops-manifest-numbers-05](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-sidrops-manifest-numbers-05-rev%20Med.pdf)
