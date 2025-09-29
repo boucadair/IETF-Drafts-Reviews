@@ -46,3 +46,5 @@
 45. [draft-ietf-ippm-asymmetrical-pkts-08](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-ippm-asymmetrical-pkts-08-rev%20Med.pdf)
 46. [draft-jlu-dmm-udp-tunnel-acaas-00](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-jlu-dmm-udp-tunnel-acaas-00-rev%20Med.pdf)
 47. [draft-ietf-ippm-hybrid-two-step-06](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-ippm-hybrid-two-step-06-rev%20Med.pdf)
+48. [draft-ietf-grow-bmp-bgp-rib-stats-08](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-grow-bmp-bgp-rib-stats-08-rev%20Med.pdf)
+
