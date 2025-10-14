@@ -48,5 +48,7 @@
 47. [draft-ietf-ippm-hybrid-two-step-06](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-ippm-hybrid-two-step-06-rev%20Med.pdf)
 48. [draft-ietf-grow-bmp-bgp-rib-stats-08](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-grow-bmp-bgp-rib-stats-08-rev%20Med.pdf)
 49. [draft-ietf-v6ops-claton-09](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-v6ops-claton-09-rev%20Med.pdf)
+50. [draft-ietf-idr-bgpls-sr-vtn-mt-09](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-idr-bgpls-sr-vtn-mt-09-rev%20Med.pdf)
+
 
 
