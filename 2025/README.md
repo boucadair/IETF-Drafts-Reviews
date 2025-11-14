@@ -50,3 +50,6 @@
 49. [draft-ietf-v6ops-claton-09](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-v6ops-claton-09-rev%20Med.pdf)
 50. [draft-ietf-idr-bgpls-sr-vtn-mt-14](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-idr-bgpls-sr-vtn-mt-14-rev%20Med.pdf)
 51. [draft-ietf-ippm-qoo-04](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-ippm-qoo-04-rev%20Med.pdf)
+52. [draft-ietf-v6ops-icmpext-xlat-v6only-source-01](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-v6ops-icmpext-xlat-v6only-source-01-rev%20Med.pdf)
+
+
