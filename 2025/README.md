@@ -52,5 +52,6 @@
 51. [draft-ietf-ippm-qoo-04](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-ippm-qoo-04-rev%20Med.pdf)
 52. [draft-ietf-v6ops-icmpext-xlat-v6only-source-01](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-v6ops-icmpext-xlat-v6only-source-01-rev%20Med.pdf)
 53. [draft-ietf-opsawg-oam-characterization-13](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-opsawg-oam-characterization-13-rev%20Med.pdf)
+54. [draft-ietf-dnsop-3901bis-08](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2025/draft-ietf-dnsop-3901bis-08-rev%20Med.pdf)
 
 
