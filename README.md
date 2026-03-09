@@ -2,7 +2,7 @@
 
 ## 2026
 
-1. See more details [here](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2026/README.md). 
+1. See more details [here](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2026/readme.md). 
 
 ## 2025
 
