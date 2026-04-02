@@ -8,6 +8,7 @@
 4. [draft-ietf-mboned-amt-yang-05](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2026/draft-ietf-mboned-amt-yang-05-rev%20Med.pdf)
 5. [draft-dunbar-agent-attachment-00](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2026/draft-dunbar-agent-attachment-00-rev%20Med.pdf)
 6. [draft-hardaker-dns-wgs-at-ietf-03](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2026/draft-hardaker-dns-wgs-at-ietf-03-rev%20Med.pdf)
+7. [draft-ietf-6man-snac-router-ra-flag-04]((https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2026/draft-ietf-6man-snac-router-ra-flag-04-rev%20Med.pdf))
 
 
 
