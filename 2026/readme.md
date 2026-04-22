@@ -11,6 +11,7 @@
 7. [draft-ietf-6man-snac-router-ra-flag-04](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2026/draft-ietf-6man-snac-router-ra-flag-04-rev%20Med.pdf)
 8. [draft-crocker-dnsop-dnssec-algorithm-lifecycle-02](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2026/draft-crocker-dnsop-dnssec-algorithm-lifecycle-02-rev%20Med.pdf)
 9. [draft-ietf-bmwg-network-tester-cfg-10](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2026/draft-ietf-bmwg-network-tester-cfg-10-rev%20Med.pdf)
+10. [draft-ietf-regext-rdap-ttl-extension-07](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2026/draft-ietf-regext-rdap-ttl-extension-07-rev%20Med.pdf)
 
 
 
