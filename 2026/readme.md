@@ -15,6 +15,9 @@
 11. [draft-ietf-regext-ext-registry-epp-06](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2026/draft-ietf-regext-ext-registry-epp-06-rev%20Med.pdf)
 12. [draft-ietf-regext-epp-quic-06](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2026/draft-ietf-regext-epp-quic-06-rev%20Med.pdf)
 13. [draft-ietf-sidrops-avoid-rpki-state-in-bgp-05](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2026/draft-ietf-sidrops-avoid-rpki-state-in-bgp-05-rev%20Med.pdf)
+14. [draft-ietf-v6ops-rfc6146-bis-05](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2026/draft-ietf-v6ops-rfc6146-bis-05-rev%20Med.pdf)
+
+
 
 
 
