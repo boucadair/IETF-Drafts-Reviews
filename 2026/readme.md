@@ -17,6 +17,7 @@
 13. [draft-ietf-sidrops-avoid-rpki-state-in-bgp-05](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2026/draft-ietf-sidrops-avoid-rpki-state-in-bgp-05-rev%20Med.pdf)
 14. [draft-ietf-v6ops-rfc6146-bis-05](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2026/draft-ietf-v6ops-rfc6146-bis-05-rev%20Med.pdf)
 15. [draft-ietf-dnsop-delext-03](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2026/draft-ietf-dnsop-delext-03-rev%20Med.pdf)
+16. [draft-ietf-ippm-connectivity-monitoring-13](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2026/draft-ietf-ippm-connectivity-monitoring-13-rev%20Med.pdf)
 
 
 
