@@ -18,6 +18,7 @@
 14. [draft-ietf-v6ops-rfc6146-bis-05](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2026/draft-ietf-v6ops-rfc6146-bis-05-rev%20Med.pdf)
 15. [draft-ietf-dnsop-delext-03](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2026/draft-ietf-dnsop-delext-03-rev%20Med.pdf)
 16. [draft-ietf-ippm-connectivity-monitoring-13](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2026/draft-ietf-ippm-connectivity-monitoring-13-rev%20Med.pdf)
+17. [draft-ietf-bmwg-sr-bench-meth-06](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2026/draft-ietf-bmwg-sr-bench-meth-06-rev%20Med.pdf)
 
 
 
