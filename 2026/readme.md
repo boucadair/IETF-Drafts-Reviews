@@ -20,6 +20,7 @@
 16. [draft-ietf-ippm-connectivity-monitoring-13](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2026/draft-ietf-ippm-connectivity-monitoring-13-rev%20Med.pdf)
 17. [draft-ietf-bmwg-sr-bench-meth-06](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2026/draft-ietf-bmwg-sr-bench-meth-06-rev%20Med.pdf)
 18. [draft-ietf-v6ops-6mops-10](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2026/draft-ietf-v6ops-6mops-10-rev%20Med.pdf)
+19. [draft-ietf-ippm-stamp-ext-hdr-14](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2026/draft-ietf-ippm-stamp-ext-hdr-14-rev%20Med.pdf)
 
 
 
