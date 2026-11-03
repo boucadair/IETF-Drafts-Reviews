@@ -23,6 +23,7 @@
 19. [draft-ietf-ippm-stamp-ext-hdr-14](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2026/draft-ietf-ippm-stamp-ext-hdr-14-rev%20Med.pdf)
 20. [draft-ietf-sidrops-rtr-yang-13](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2026/draft-ietf-sidrops-rtr-yang-13-rev%20Med.pdf)
 21. [draft-ietf-v6ops-ipv6-only-05](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2026/draft-ietf-v6ops-ipv6-only-05-rev%20Med.pdf)
+22. [draft-ietf-bpm-alt-mark-deployment-00](https://github.com/boucadair/IETF-Drafts-Reviews/blob/master/2026/draft-ietf-bpm-alt-mark-deployment-00-rev%20Med.pdf)
 
 
 
